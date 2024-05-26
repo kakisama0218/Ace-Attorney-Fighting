@@ -10,9 +10,9 @@
 ## 开发者 DevelopMembers
 **程序&测试 Programmer&Tester**: Haoyu Sun,Zhifeng Liang
 
-**美术 Artist**: Chuhan Liu,
+**美术 Artist**: Chuhan Liu,Kexin Gong
 ## 游戏视频 GameVideo
-**TIPS:** Since github video specifications require less than 10MB, the image quality is a bit low, please don't mind!
+**游戏内使用BGM素材** 1.杉森雅和 - 尋問 ～アレグロ 2001 2.杉森雅和 - 成歩堂龍一 ～異議あり! 2001 3.杉森雅和 - 追求 ～追いつめられて
 
 **祝您玩得愉快！**
 
