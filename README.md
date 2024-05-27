@@ -18,4 +18,4 @@
 
 
 
-https://github.com/kakisama0218/Ace-Attorney-Fighting/blob/main/GameVideo/2024-05-27%2017-34-26.mp4
+![](https://github.com/kakisama0218/Ace-Attorney-Fighting/blob/main/GameVideo/2024-05-27%2017-34-26.mp4)
