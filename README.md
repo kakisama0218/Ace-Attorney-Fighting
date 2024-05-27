@@ -1,5 +1,6 @@
 # 逆转，然后格斗 Ace-Attorney-Fighting
-![](https://github.com/kakisama0218/Ace-Attorney-Fighting/blob/main/GameVideo/Logo.jpg)<br><br>
+
+<img src="https://github.com/kakisama0218/Ace-Attorney-Fighting/blob/main/GameVideo/Logo.jpg" width="300px"><br><br>
 用Pygames做的整活小游戏，逆转裁判二创作品，在法庭上“打”官司击败对手
 
 ![](https://github.com/kakisama0218/Ace-Attorney-Fighting/blob/main/GameVideo/gameplay.gif)
@@ -7,7 +8,7 @@
 **1.** 该小游戏保留了传统的格斗游戏玩法。攻击对手降低对面的血量。当对手的血量降至0时，你的比分则会+1分。
 
 **2.** 操作方式：成步堂龙一：A,D移动角色，W跳跃，J攻击，K特殊攻击<br>
-<img src="https://github.com/kakisama0218/Ace-Attorney-Fighting/blob/main/GameVideo/idle.gif" width="210px">
+<img src="https://github.com/kakisama0218/Ace-Attorney-Fighting/blob/main/GameVideo/idle.gif" width="150px"><br>
 御剑怜侍：←,→移动角色,↑跳跃,小键盘1攻击,小键盘2特殊攻击
 **3.** 请务必使用英文输入法下游玩此游戏。
 **4.** 游戏的音乐会随着游戏的比分进度变化而变化，模拟《逆转裁判》系列中紧张刺激的博弈感。
